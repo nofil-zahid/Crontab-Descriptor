@@ -8,7 +8,6 @@ Crontab Descriptor is a lightweight Java tool that translates crontab strings in
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
 
 ### Features
 - **Full Crontab Support:** Handles all standard fields in a crontab expression (minute, hour, day of the month, month, day of the week).
